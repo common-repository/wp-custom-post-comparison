@@ -1,0 +1,39 @@
+.custom_post_type_div {
+	width:1000px;
+	border-radius: 5px;
+	background-color: white;
+	margin-right: 200px;
+}
+.post_type_details_span {
+	color:red;
+}
+
+.show_post_details_table {
+	width: 900px;
+	margin-left: 20px;
+	border-collapse: collapse;
+	background-color:#fcfcfc; 
+}
+
+.show_post_details_inner_table {
+	width:700px;
+}
+
+.home_page_welcome_div {
+	width: 900px;
+	height: auto;
+	margin-left: 20px;
+	border: 0; 
+}
+
+.welcome_span_msg {
+	text-align: center;
+	font-size: xx-large;
+	line-height: 1.5em;
+}
+
+.about_cp_span {
+	text-align: center;
+	font-size: 18px;
+	line-height: 1.5em;	
+}
